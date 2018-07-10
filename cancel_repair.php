@@ -40,7 +40,7 @@ if(empty($d_res_id)) {
     <div id="contact">
         <center>
             <h4><?php echo $msg ?></h4>
-            <button style="width:100px;" name="close" onclick="window.location.href='menu.php'">Close</button>
+            <button style="width:100px;" name="close" onclick="window.location.href='ERMS/menu.php'">Close</button>
         </center>
     </div>
 </div>
